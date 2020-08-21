@@ -1,15 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Unnati
 
-You can use the [editor on GitHub](https://github.com/unnati-iisertpty/UNNATI/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+From Unnati, we aim to extend help to communities, in a social and educative capacity
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Club Activities
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Our major club activities are sessions with students around the locality with the aim to induce a taste of science in them.
 
 # Header 1
 ## Header 2
